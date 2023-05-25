@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mynewpostgrepythonwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFFC76AC44634502AF9966B80B75D3A6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_763320D8A0714215AD0A3BC38ADEB840 }}
